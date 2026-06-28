@@ -1,0 +1,11 @@
+# ไฟล์ไบนารี — ห้ามแปลง line ending (กันฟอนต์/เอกสารเสีย)
+*.ttf  binary
+*.otf  binary
+*.docx binary
+*.png  binary
+*.jpg  binary
+
+# ไฟล์ข้อความ — ใช้ LF
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf

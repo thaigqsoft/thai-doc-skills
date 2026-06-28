@@ -1,0 +1,2 @@
+weasyprint>=60
+pythainlp>=4.0.0

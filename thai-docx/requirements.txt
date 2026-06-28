@@ -1,0 +1,2 @@
+python-docx>=1.0.0
+pythainlp>=4.0.0
